@@ -1,0 +1,2 @@
+[functions.secret-room]
+verify_jwt = false
